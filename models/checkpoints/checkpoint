@@ -1,0 +1,2 @@
+model_checkpoint_path: "double_dqn_checkpoint_250"
+all_model_checkpoint_paths: "double_dqn_checkpoint_250"
