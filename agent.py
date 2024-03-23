@@ -95,7 +95,7 @@ class dqn_agent():
     '''epsilon decay'''
     return max(self.eps_min, self.eps_decay * self.epsilon)
 
-  def train(self, model_path, reward_path, num_epochs=2000, max_steps_per_iter=1000, erp_size=100000, steps_per_update=4):
+  def train(self, model_path, reward_path, num_epochs=2000, max_steps_per_iter=1000, steps_per_update=4):
     '''train loop for the agent'''
 
     #initialize variables
