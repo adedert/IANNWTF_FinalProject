@@ -1,7 +1,5 @@
 # IANNWTF_FinalProject
-
-## Introduction
-In this project we implemented a Deep-Q-Network and a Double Deep-Q-Network to solve the Lunar Lander Gym Environment. 
+In this project we implemented a Deep-Q-Network and a Double Deep-Q-Network to solve the Lunar Lander Gym Environment by Farama. 
 
 ## Lunar Lander Environment
 
@@ -52,3 +50,7 @@ To run the model, follow these steps:
         2. DDQN
 
     Enter the corresponding number (1 or 2) to select the desired model.
+
+## Showcase
+This is our DDQN agent which was trained until a average reward of 250:
+![DDQN with average reward of 250](gifs/DDQN_250.gif)
