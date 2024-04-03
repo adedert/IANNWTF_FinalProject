@@ -1,0 +1,4 @@
+tensorflow
+matplotlib
+numpy
+gymnasium[box2d]
