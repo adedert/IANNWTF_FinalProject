@@ -52,5 +52,6 @@ To run the model, follow these steps:
     Enter the corresponding number (1 or 2) to select the desired model.
 
 ## Showcase
-This is our DDQN agent which was trained until a average reward of 250:
+This is our DDQN agent which was trained until an average reward of 250:
+
 ![DDQN with average reward of 250](gifs/DDQN_250.gif)
